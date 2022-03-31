@@ -1,44 +1,44 @@
 # ![alist](https://user-images.githubusercontent.com/96433729/161128428-63804d1a-0e8b-4bb0-801f-c606755237fc.png)
 
-**a modern recreation of (JesusAI)[https://github.com/JesusAIexperience/JesusAI]**
+**a modern recreation of [JesusAI](https://github.com/JesusAIexperience/JesusAI)**
 
-**Requires two players for coop campaign, singleplayer coming soon**
+**created by @enfier & @atomjp**
 
-**Created by ritz (@enfier_)**
-
-`Expected full release date: May - August 2022!`
+`Originally created by D4rkC0rp0r4ti0n, 448v & enfier`
 
 ## Looking for a download?
-You can download the latest version of Auxilium here.
+alist has not started development and no copies have been created.
 
-(Demo is coming soon! Please be patient.)
-
-## Auxilium Discord
-Join our official Discord for sneak peaks, fun stuff & more.
-
-[Discord Link](https://discord.gg/QVEdw45AHX)
+Please be patient for when one *does* come out, though.
 
 ## FAQ
 
-### What is Auxilium?
-Auxilium is a free-to-play two player experience. You're selected to play-test a program for an unidentified company.
+### What is alist?
+alist is a modern recreation / interpretation of JesusAI.
 
-You and a partner must complete puzzles and find out what lies underneath.
+JesusAI is a singleplayer free-to-play game about talking to a broken version of Jesus,
+featuring many unlockables, extra content & 3 endings to achieve.
 
-You can either help your partner; or betray them for selfish gain.
+The game released, however, due to optimizations being found, a group of developers wanted to recreate the game entirely.
 
-A singleplayer campaign will also be released eventually.
+While @enfier and @atomjp are currently the only developers, more are planned to contribute to the project eventually.
 
-### When can I play it?
-We expect to release Auxilium around May to August 2022, however it may take longer or shorter.
+### Should I play alist or JesusAI?
+Both are great games; however, alist is a more modern version of JesusAI.
+
+For the original experience, play JesusAI. For an updated versiom, play alist.
 
 ### Will the game be free to play?
-Yes! We have released a demo of 5 multiplayer levels and 1 singleplayer level here, which you can download here.
+Yes.
 
-The game may change as we develop it, so beware!
-
-### Are you looking for any help on the project?
-Currently, no. However, we may be looking for helpers in the future.
+### Can I contribute?
+Currently, no.
 
 ### Will there be any other releases for other OS'?
-Linux support may happen. Mac support is unlikely. No Chromebook support.
+While the game is 100% intended for Windows systems, Linux support is being discussed.
+
+### Will the game be available on itch.io when it gets finished?
+Yes.
+
+### Will it be free there, too?
+Yes.
