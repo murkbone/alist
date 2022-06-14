@@ -1,3 +1,7 @@
+# CANCELLED! JesusAI Update 2 is coming out soon and does everything alist was going to do. Coming soon.
+
+
+
 # ![alist](https://user-images.githubusercontent.com/96433729/161128428-63804d1a-0e8b-4bb0-801f-c606755237fc.png)
 
 **a modern recreation of [JesusAI](https://github.com/JesusAIexperience/JesusAI)**
